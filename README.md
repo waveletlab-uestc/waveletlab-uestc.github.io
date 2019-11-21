@@ -1,2 +1,3 @@
 # waveletlab-uestc
-web
+
+[ICCWAMTIP Conference website](waveletlab.org)
